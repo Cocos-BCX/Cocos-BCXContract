@@ -1,5 +1,6 @@
 # Cocos-BCX
 
+COCOS will work on the NFT+DeFi+ Games direction in the BSC ecosystem to form asset interoperability in multiple fields. COCOS's BSC ecological NFT life cycle system (including COCOS1808 protocol, NFT+DeFi, NFT blind box, casting, auction, etc.)  can be combined with more financial scenarios, such as blind box economy, electronic gift certificates, game equipment and other markets. In the BSC ecosystem, COCOS will mainly solve the problems of NFT ownership, assignment and transaction.
 
 ## How to Contribute
 
