@@ -8,7 +8,7 @@ To chat with us & stay up to date, join our [Telegram](https://t.me/cocosbcxen).
 
 Follow us on [Twitter](https://twitter.com/cocosbcx)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/basiscash?label=Follow)](https://twitter.com/basiscash)
+[![Twitter Follow](https://img.shields.io/twitter/follow/basiscash?label=Follow)](https://twitter.com/cocosbcx)
 
 Contribution guidelines are [here](./CONTRIBUTING.md)
 
